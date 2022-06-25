@@ -1,0 +1,45 @@
+
+CODE|
+----------------------------WINDOWS 7------------------------------------------
+Activate Windows 7 Enterprise or Professional NO ULTIMATE!!!
+Wait for better news  on windows 8!
+Open Command Prompt with Administrator. When inside, copy and past the following depending on whether you want to activate windows  professional or Enterprise.
+
+slmgr.vbs -ipk FJ82H-XT6CR-J8D7P-XQJJ2-GPDD4 (Windows 7 Professional)
+slmgr.vbs -ipk 33PXH-7Y6KF-2VJC9-XBBR8-HVTHH (Windows 7 Enterprise)
+Afterwards, type this inside:
+
+slmgr.vbs -skms yuna.no-ip.info 
+wait for confirmation that the KMS Server has been set, then type
+slmgr.vbs -ato
+wait for few seconds, Windows 7 will now be activated !!!
+
+To check status, type
+slmgr.vbs -dlv
+
+It only works with Windows 7 Professional & Enterprise 32-bit & 64-bit in any language !!
+
+if it didnt workx 
+
+DOWNLOAD WAT from THIS..
+
+http://thepiratebay.org/torrent/5396069
+
+open it and click REMOVE WAT...
+
+slmgr.vbs /ipk (product key)
+slmgr.vbs /skms kms.lotro.cc
+slmgr.vbs /ato
+
+----------------------------WINDOWS 10-------------------------------------------
+
+Win 10 Home: TX9XD-98N7V-6WMQ6-BX7FG-H8Q99
+Win 10 Home N: 3KHY7-WNT83-DGQKR-F7HPR-844BM
+Win 10 Home Single Language: 7HNRX-D7KGG-3K4RQ-4WPJ4-YTDFH
+Win 10 Home Country Specific: PVMJN-6DFY6-9CCP6-7BKTT-D3WVR
+Win 10 Professional: W269N-WFGWX-YVC9B-4J6C9-T83GX
+Win 10 Professional N: MH37W-N47XK-V7XM9-C7227-GCQG9
+Win 10 Education: NW6C2-QMPVW-D7KKK-3GKT6-VCFB2
+Win 10 Education N: 2WH4N-8QGBV-H22JP-CT43Q-MDWWJ
+Win 10 Enterprise: NPPR9-FWDCX-D2C8J-H872K-2YT43
+Win 10 Enterprise N: DPH2V-TTNVB-4X9Q3-TJR4H-KHJW4 
